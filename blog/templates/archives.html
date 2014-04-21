@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+{% extends "base.html" %}
+{% block content %}
+
+{% for post in object_list %}
+<!--<h3>{{ post.title }}    without url linking</h3>-->
+<p>{{post.date|date:"Y-m-d"}}<a href="/blog/{{post.id}}">  {{post.title}}</a></p>
+{% endfor %}
+{% endblock %}
