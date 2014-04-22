@@ -89,8 +89,8 @@ STATICFILES_DIRS = (
 )
 
 TEMPLATE_DIRS = (
-    TEMPLATE_PATH,
-)
+     TEMPLATE_PATH,
+ )
 
 
 

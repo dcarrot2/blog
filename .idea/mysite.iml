@@ -8,6 +8,8 @@
     <orderEntry type="module" module-name="CSTProject2" />
     <orderEntry type="module" module-name="Udacity" />
     <orderEntry type="module" module-name="finalcst" />
+    <orderEntry type="module" module-name="cstfinal" />
+    <orderEntry type="module" module-name="code" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="myDocStringFormat" value="Plain" />

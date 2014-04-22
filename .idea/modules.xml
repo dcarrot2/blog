@@ -5,7 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/../../CSTProject2/.idea/CSTProject2.iml" filepath="$PROJECT_DIR$/../../CSTProject2/.idea/CSTProject2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../Sunset/.idea/Sunset.iml" filepath="$PROJECT_DIR$/../../Sunset/.idea/Sunset.iml" />
       <module fileurl="file://$USER_HOME$/Downloads/Udacity/.idea/Udacity.iml" filepath="$USER_HOME$/Downloads/Udacity/.idea/Udacity.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../finalcst/.idea/finalcst.iml" filepath="$PROJECT_DIR$/../../finalcst/.idea/finalcst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/code.iml" filepath="$PROJECT_DIR$/../.idea/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cstfinal/.idea/cstfinal.iml" filepath="$PROJECT_DIR$/../../cstfinal/.idea/cstfinal.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mysite.iml" filepath="$PROJECT_DIR$/.idea/mysite.iml" />
     </modules>
   </component>
